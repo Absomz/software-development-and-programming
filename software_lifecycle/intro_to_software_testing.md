@@ -6,6 +6,12 @@
 
 ---
 
+**Author:** Abner Soberon  
+**Topic:** Software Testing   
+**Date:** June 2025  
+
+---
+
 ## 📘 Introduction
 
 Software testing is a vital component of the **Software Development Life Cycle (SDLC)**. 
